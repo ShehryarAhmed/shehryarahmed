@@ -2,6 +2,7 @@
 
 - 🧑🏽‍💻 Senior Android Developer @Blu's Creative Lab
 - 💬 Ask me about **Kotlin, Java, MVVM, Architecture Component**
+- 💬 Learning **BLockchain Soldity, Smart Contarct,Solana and React to connect meta mask
 - 📫 How to reach me **shehreyarahmed5@gmail.com**
 
 
